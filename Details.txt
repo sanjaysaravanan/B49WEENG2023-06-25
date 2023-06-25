@@ -1,0 +1,68 @@
+
+Topics:
+
+  while loop: while is used as entry controlled loop
+    incremental while
+    decremental while
+
+  different ways add elements into an array:
+    using index
+    built methods
+      push ->  Appends new elements to the end of an array, and returns the new length of the array.
+
+      pop  -> Removes the last element from an array and returns value of last element. If the array is empty, undefined is returned and the array is not modified.
+
+      splice -> Removes elements from an array and, if necessary, inserts new elements in their place, returning the deleted elements.
+
+      reverse -> Reverses the elements in an array in place. This method mutates the array and returns a reference to the same array.
+
+      sort -> Sorts an array in place. This method mutates the array and returns a reference to the same array.
+
+      slice -> Returns a copy of a section of an array. For both start and end, a negative index can be used to indicate an offset from the end of the array. For example, -2 refers to the second to last element of the array.
+
+  built-in methods to reverse array ---> arr.reverse(); // modifies and reverses the array
+  built-in methods to string --> toUpperCase, toLowerCase
+
+  break --> mannual breaking out of a looping statements
+
+  switch case: multiple cases can be checked
+    be care full **break** in switch
+  
+  Recursion:
+    a function calling itself
+    
+    **if not terminated properly, goes in a infinite recursion**
+
+  Iterating array:
+    using index variable
+    
+  string:
+    string --> iteration through chars
+  
+  Basic problems:
+    3. Sum Of Arrays
+  
+
+Task 2023-06-25:
+  Complete 15 Problems in ABsolute Beginner
+
+
+Next Session:
+  Array Problems - Basic Algorithms
+    1. Searching
+    2. Loop inside loop
+    4. Largest of an array
+    5. Smallest of an array
+  number --> iteration through digits
+  Prime Number
+  Array Reverse, Sorting
+  String:
+      1. Reverse a String
+      2. Palindrome
+  Object or Dictionary ( data storing variable ) 
+      key <-> value pair
+        {
+            name: 'Sanjay',
+            role: 'Developer',
+            desgination: 'Software Engineer'
+        }
