@@ -28,10 +28,10 @@ Topics:
   switch case: multiple cases can be checked
     be care full **break** in switch
   
-  Recursion:
+  Recursion: https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/
     a function calling itself
     
-    **if not terminated properly, goes in a infinite recursion**
+    **if not terminated properly, goes in an infinite recursion**
 
   Iterating array:
     using index variable
